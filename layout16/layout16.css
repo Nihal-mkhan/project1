@@ -1,0 +1,24 @@
+div{
+    background: rgb(0,0,0);
+    margin:10px;
+}
+#one{
+    width: 300px;
+    height:70px;
+}
+#two{
+    width: 140px;
+    height: 300px;
+    float:left;
+}
+#four, #three{
+    width: 60px;
+    height: 300px;
+    float:left;
+    margin-bottom: 20px;
+}
+#five{
+    width:300px;
+    height:70px;
+    clear:left;
+}

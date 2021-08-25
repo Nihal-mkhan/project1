@@ -1,0 +1,23 @@
+div{
+    background: rgb(0,0,0);
+    margin: 6px;
+}
+#one,#eight{
+        width: 300px;
+        height: 70px;
+}
+
+#two, #three, #four{
+    display: inline-block;
+    width: 89px;
+    height: 70px;
+    
+}
+
+#six, #seven, #five{
+    display:inline-block;
+    width: 89px;
+    height: 70px;
+    
+}
+

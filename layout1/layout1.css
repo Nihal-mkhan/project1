@@ -1,0 +1,26 @@
+div{
+    display: inline-block;
+    margin: 6px;
+    padding: 2px;
+    background: rgb(0,0,0);
+    
+}
+#one{
+    width: 220px;
+    height: 100px;
+    
+}
+#three,#four,#five{
+    width:100px;
+    height:120px;
+
+}   
+#two{
+    width: 100px;
+    height: 100px;
+}
+
+#six, #seven, #eight{
+    width: 100px;
+    height: 120px;
+}

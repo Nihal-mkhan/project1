@@ -1,0 +1,19 @@
+div{
+    background: rgb(0,0,0);
+    margin:10px;
+}
+#one{
+    width: 70px;
+    height:390px;
+    float:left;
+}
+#two{
+    width: 160px;
+    height: 70px;
+    float:left;
+}
+#three, #four{
+    width: 70px;
+    height: 300px;
+    float:left;
+}

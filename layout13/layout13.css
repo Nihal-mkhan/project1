@@ -1,0 +1,24 @@
+#one{
+    height: 415px;
+    width: 70px;
+    background:rgb(0,0,0);
+    float:left;
+    margin:10px;
+    
+}
+#two{
+    float:left;
+}
+#two-1, #two-4{
+    width: 165px;
+    height: 70px;
+    background: rgb(0,0,0);
+    margin: 10px;
+}
+#two-2, #two-3{
+    height: 230px;
+    width: 70px; 
+    background:rgb(0,0,0);
+    margin:10px;
+    display:inline-block;
+}

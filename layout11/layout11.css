@@ -1,0 +1,21 @@
+div{
+    background: rgb(0,0,0);
+}
+#one, #two, #three{
+    width: 75px;
+    height: 200px;
+    display:inline-block;
+    margin:20px;
+}
+#four, #five{
+    width:130px;
+    height:200px;
+    display:inline-block;
+    margin-left:20px;
+}
+#four{
+    margin-right: 25px;
+}
+#five{
+    margin-left: 25px;
+}

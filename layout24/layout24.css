@@ -1,0 +1,14 @@
+#two{
+    width:60px;
+    height: 400px;
+    float:left;
+    margin:5px;
+    background: rgb(0,0,0);
+}
+#one{
+    width:130px;
+    height: 400px;
+    float:left;
+    margin:5px;
+    background: rgb(0,0,0);
+}

@@ -1,0 +1,23 @@
+div{
+    background: rgb(0,0,0);
+    display: inline-block;
+    margin:6px;
+    /*padding:2px;*/
+}
+#one{
+    width: 300px;
+    height: 70px;
+    position: absolute;
+}
+#two, #four{
+    width: 60px;
+    height: 400px;
+    position: relative;
+    top: 90px;
+}
+#three{
+    width: 150px;
+    height: 400px;
+    position:relative;
+    top: 90px;
+}
