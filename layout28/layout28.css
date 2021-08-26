@@ -1,0 +1,21 @@
+div{
+    background: rgb(0,0,0);
+    margin:10px;
+}
+#four{
+    width: 70px;
+    height:390px;
+    float:left;
+    position:relative;
+    top: -90px;
+}
+#one{
+    width: 160px;
+    height: 70px;
+    float:left;
+}
+#two, #three{
+    width: 70px;
+    height: 300px;
+    float:left;
+}

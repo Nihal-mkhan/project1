@@ -1,0 +1,18 @@
+div{
+    background: rgb(0,0,0);
+    margin: 10px;
+}
+#one{
+    width: 500px;
+    height: 80px;
+}
+#three{
+    width: 100px;
+    height:450px;
+    float:left;
+}
+#two{
+    width: 378px;
+    height: 450px;
+    float:left;
+}
